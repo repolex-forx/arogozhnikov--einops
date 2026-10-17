@@ -1,0 +1,11 @@
+{
+  "org": "arogozhnikov",
+  "repo": "einops",
+  "versions": [
+    {
+      "commit": "1f2268c55a25e1d422680a2f22a4c71f4faa7f3d",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:12:04.650642+00:00"
+    }
+  ]
+}
